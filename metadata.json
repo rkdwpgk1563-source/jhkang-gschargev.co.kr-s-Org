@@ -1,0 +1,5 @@
+{
+  "name": "GS차지비 명절 선물 관리 시스템",
+  "description": "GS차지비 임직원용 거래처 명절 선물 관리 및 배송지 취합 시스템입니다. 사내 이메일 인증을 통해 이용 가능합니다.",
+  "requestFramePermissions": []
+}
